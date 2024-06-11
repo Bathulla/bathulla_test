@@ -10,3 +10,5 @@ This is a test repo for github lesson
 
 # Collaborator
 Adding my changes.
+
+It is a hot day in Sac. 
